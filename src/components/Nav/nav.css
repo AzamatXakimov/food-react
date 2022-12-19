@@ -1,0 +1,58 @@
+.navigation {
+    padding-top: 24px;
+	background-color: #1f1d2b;
+	border-radius: 0 16px 16px 0;
+}
+.logo{
+    margin-bottom: 16px;
+}
+.nav-bg {
+	display: block;
+	width: 92px;
+	height: 102px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.home {
+	background-image: url("../../assets/images/icons/home.svg");
+}
+.discount {
+	background-image: url("../../assets/images/icons/Discount.svg");
+}
+.grahp {
+    background-image: url("../../assets/images/icons/Graph.svg");
+}
+.message {
+	background-image: url("../../assets/images/icons/Message.svg");
+}
+.notification {
+	background-image: url("../../assets/images/icons/Notification.svg");
+}
+.setting {
+	background-image: url("../../assets/images/icons/Setting.svg");
+}
+.log-out{
+	background-image: url("../../assets/images/icons/log-out.svg");
+    margin-top: 46px;
+}
+.discount-active {
+	background-image: url("../../assets/images/icons/Discount-active.svg");
+}
+.home-active {
+	background-image: url("../../assets/images/icons/home-active.svg");
+}
+.grahp-active {
+    background-image: url("../../assets/images/icons/Graph-active.svg");
+}
+.message-active {
+	background-image: url("../../assets/images/icons/Message-active.svg");
+}
+.notification-active {
+	background-image: url("../../assets/images/icons/Notification-active.svg");
+}
+.setting-active {
+	background-image: url("../../assets/images/icons/Setting-active.svg");
+}
+.site-nav {
+	padding-left: 12px;
+}
