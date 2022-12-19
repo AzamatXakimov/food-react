@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import "./assets/styles/main.css";
+import "./assets/styles/main.scss";
 import { Home } from "./pages/Home/Home";
 import { Nav } from "./components/Nav";
 export const App = () => {

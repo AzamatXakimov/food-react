@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink, Route, Routes } from "react-router-dom";
-import "./home.css";
+import "./home.scss";
 export const Home = () => {
 	return (
 		<div className='main-wrapper'>

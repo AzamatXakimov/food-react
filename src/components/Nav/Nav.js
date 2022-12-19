@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Logo } from "../../assets/images/icons/icons";
-import "./nav.css";
+import "./nav.scss";
 export const Nav = () => {
 	return (
 		<div class='navigation position-fixed h-100 '>
